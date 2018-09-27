@@ -1,4 +1,5 @@
 
+/* Tic-tac-toe CSS */
 h1 {
   text-align: center;
   text-transform: uppercase;
@@ -6,8 +7,6 @@ h1 {
   font-family: 'Gloria Hallelujah', cursive;
   border: 10px solid white;
   border-radius:10px;
-
-
 }
 
 h3 {
@@ -16,15 +15,11 @@ h3 {
   text-align: center;
   font-family: 'Gloria Hallelujah', cursive;
   background: linear-gradient(to left, #ffff66 0%, #99ff66 100%);
-
-
-
 }
 
 body {
   background-color: #314755;
   background: linear-gradient(to left, #314755 0%, #26a0da 100%);
-
 }
 
 .box {
@@ -49,7 +44,6 @@ body {
 
 .box:hover{
   background:linear-gradient(to bottom, #cc2b5e 0%, #753a88 100%);
-
 }
 
 
@@ -71,14 +65,10 @@ body {
   margin-right: 20px;
   font-family: 'Gloria Hallelujah', cursive;
   bottom: 20%;
-
-
 }
 
 .reset:hover{
   background:linear-gradient(to bottom, #cc2b5e 0%, #753a88 100%);
-
-
 }
 
 
@@ -86,4 +76,38 @@ body {
   display:none;
   margin-left: 30%;
   top: 300px;
+}
+
+
+#scoreX {
+  font-family: 'Gloria Hallelujah', cursive;
+  color: white;
+  font-size: 20px;
+  display: inline;
+}
+
+#scoreO {
+  font-family: 'Gloria Hallelujah', cursive;
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+
+
+.leaderboard {
+  font-family: 'Gloria Hallelujah', cursive;
+  color: white;
+  font-size: 30px;
+  border: 10px solid white;
+  border-radius: 20px;
+  width: 200px;
+  position: absolute;
+  margin-left: 20px;
+  padding: 20px;
+  text-transform: uppercase;
+}
+
+.leaderboard:hover{
+  background:linear-gradient(to bottom, #cc2b5e 0%, #753a88 100%);
 }
