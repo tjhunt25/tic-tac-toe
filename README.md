@@ -10,12 +10,12 @@ This project was created using front end languages, the objective of this projec
 ![Screenshot](/images/tictactoe.png)
 
 **FEATURES**:
-<br> * Visually displays which side won.
-<br> * Switches turn between players X and O.
-<br> * Win counter.
-<br> * Reset game button.
+<br> *Visually displays which side won.
+<br> *Switches turn between players X and O.
+<br> *Win counter.
+<br> *Reset game button.
 
-** TECH: **
+**TECH:**
 <br>HTML
 <br>CSS
 <br>Javascript
