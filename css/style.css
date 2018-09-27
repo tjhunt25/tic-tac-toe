@@ -1,0 +1,89 @@
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+  font-family: 'Gloria Hallelujah', cursive;
+  border: 10px solid white;
+  border-radius:10px;
+
+
+}
+
+h3 {
+  color: black;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: 'Gloria Hallelujah', cursive;
+  background: linear-gradient(to left, #ffff66 0%, #99ff66 100%);
+
+
+
+}
+
+body {
+  background-color: #314755;
+  background: linear-gradient(to left, #314755 0%, #26a0da 100%);
+
+}
+
+.box {
+  color: black;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 90px;
+  font-weight: bold;
+  display: inline-block;
+  font-weight: 200;
+  opacity: 20%;
+  background: linear-gradient(to bottom, #ffff66 0%, #99ff66 100%);
+  text-align:center;
+  border-radius: 20px;
+  width: 70px;
+  height: 70px;
+  margin: .1px;
+  padding: 20px;
+  border: 10px solid white;
+  overflow: hidden;
+  line-height: 70px;
+}
+
+.box:hover{
+  background:linear-gradient(to bottom, #cc2b5e 0%, #753a88 100%);
+
+}
+
+
+.container {
+  height: 300px;
+  width: 500px;
+  border: none;
+  margin-left: 33%;
+}
+
+.reset{
+  border-radius: 20px;
+  background: linear-gradient(to bottom, #ffff66 0%, #99ff66 100%);
+  padding: 10px;
+  float: right;
+  font-size: 30px;
+  border: 10px solid white;
+  display:inline;
+  margin-right: 20px;
+  font-family: 'Gloria Hallelujah', cursive;
+  bottom: 20%;
+
+
+}
+
+.reset:hover{
+  background:linear-gradient(to bottom, #cc2b5e 0%, #753a88 100%);
+
+
+}
+
+
+.test{
+  display:none;
+  margin-left: 30%;
+  top: 300px;
+}
