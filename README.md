@@ -15,14 +15,14 @@ The main object of the project was designed to test our creativity and solve cha
 <br> * Switches turn between players X and O.
 <br> * Sound features are added when players make a move.
 <br> * Win counter.
-<br> *
+<br> * hover effects were used for visual aesthetics
 <br> * Reset game button.
 
-##TECH:
-<br>HTML
-<br>CSS
-<br>Javascript
-<br>Jquery
+##TECH
+<br> *HTML
+<br> *CSS
+<br> *Javascript
+<br> *Jquery
 
 ##BUGS:
 <br>* Reset button is just a hard reload of the page and does not clear the board so the win counter will be reset every time.
