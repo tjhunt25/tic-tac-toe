@@ -3,7 +3,7 @@
 
 
 **Description**:
-<br>Tic tac toe is a game played with two players, X and O. The game is played on a 3x3 board. The winner is determined by a player placing there mark in a row of 3 first. Rows can be made Horizontally, vertically or diagonally.
+<br>Tic tac toe is a game played with two players, X and O. A game played on a 3x3 board in which the winner is determined by a player placing there mark in a row of 3 first. Rows can be made Horizontally, vertically or diagonally.
 
 **FEATURES**:
 <br>* Visually displays which side won.
