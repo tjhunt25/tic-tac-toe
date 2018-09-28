@@ -28,7 +28,7 @@ The main object of the project was designed to test our creativity and solve cha
 * Reset button is just a hard reload of the page and does not clear the board so the win counter will be reset every time.
  * button is clicked.
  * During gameplay a winner will be randomly announced at times.
- * Local file images would not show game over images so a link had to be used
+ * Local file images would not show game over images so a link had to be used.
 
 
 ## V2 Release Notes:
