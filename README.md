@@ -19,10 +19,10 @@ The main object of the project was designed to test our creativity and solve cha
 <br> * Reset game button.
 
 ##TECH
-<br> *HTML
-<br> *CSS
-<br> *Javascript
-<br> *Jquery
+<br> * HTML
+<br> * CSS
+<br> * Javascript
+<br> * Jquery
 
 ##BUGS:
 <br>* Reset button is just a hard reload of the page and does not clear the board so the win counter will be reset every time.
