@@ -27,8 +27,8 @@ Tic tac toe is a game played with two players, X and O. A game played on a 3x3 b
  * jQuery
 
 ## BUGS:
-  * Reset button is just a hard reload of the page and does not clear the board so the win counter will be reset every time.
- * During gameplay a winner will be announced randomly at times.
+* Reset button is just a hard reload of the page and does not clear the board so the win counter will be reset every time.
+* During gameplay a winner will be announced randomly at times.
 
 
 ## V2 Release Notes:
