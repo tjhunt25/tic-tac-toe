@@ -112,7 +112,7 @@ $('.box').on("click",function(){
     $('h1').text(`${currentPlayer} wins!`);
     $('h3').hide()
     $('audio#death')[0].play()
-    $('.test').show();
+    $('.gameEndGif').show();
     $('.box').hide();
   }
 
