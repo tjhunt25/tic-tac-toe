@@ -5,7 +5,7 @@
 ##Description:
 <br>Tic tac toe is a game played with two players, X and O. A game played on a 3x3 board in which the winner is determined by a player placing their mark in a row of 3 first. Rows can be made Horizontally, vertically or diagonally.<br>
 
-The main object of the project was designed to test our creativity and solve challenges real world developers encounter.
+The main object of the project was designed to test our creativity and solve challenges real world developers encounter using multiple front end languages.
 
 
 ![Screenshot](/images/tictactoe.png)
@@ -18,11 +18,11 @@ The main object of the project was designed to test our creativity and solve cha
 <br> * hover effects were used for visual aesthetics
 <br> * Reset game button.
 
-##TECH
+##TECH:
 <br> * HTML
 <br> * CSS
 <br> * Javascript
-<br> * Jquery
+<br> * jQuery
 
 ##BUGS:
 <br>* Reset button is just a hard reload of the page and does not clear the board so the win counter will be reset every time.
