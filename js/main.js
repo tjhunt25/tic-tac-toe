@@ -19,7 +19,7 @@ let board = [
   7 ,8, 9,
 ];
 
-//All possible combinations function **REFACTOR**
+//All possible combinations function
 const winning  = function (currentPlayer){
 
   if(
@@ -38,22 +38,18 @@ const winning  = function (currentPlayer){
 
     )
     {
-
       gameOver = true;
       return currentPlayer;
-      // Returns the current player which is called back in the on click handler
-
+      // Returns the current player which is called in the on click handler
     };
   };
 
 //check for draw
-//If draw returns true Jquery is then called in the on click handler.
-
+//If draw returns true Jquery is also called in the on click handler.
 const checkForDraw = function (){
   if (moves >=9) {
-  
-    return true;
 
+    return true;
 
   }
 };
@@ -63,7 +59,6 @@ $('.box').on("click",function(){
 
   //Gets the id from each box
   let boxId = $(this).attr("id");
-
 
   //update board via id (which is also the index of array)
   //assign currentPlayer to the board[boxId]
@@ -76,8 +71,6 @@ $('.box').on("click",function(){
     // i.e. don't run any of the rest of the code in this function which plays the move
     return;
   }
-
-
 
   //audio played when square is clicked.
   $('audio#pop')[0].play()
@@ -136,11 +129,8 @@ $('.box').on("click",function(){
     currentPlayer = player1;
 
   }
-// working
   $('h3').text(`Players Turn :  ${currentPlayer}`);
   // $('h3').css('background-color','red');
 
-
-//
 
 });  // end of click handler
