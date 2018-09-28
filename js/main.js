@@ -88,7 +88,7 @@ $('.box').on("click",function(){
   if (isDraw) {
     $('h1').text(` IT'S A TIE!`);
     $('audio#death')[0].play();
-    $('.test').show();
+    $('.gameEndGif').show();
     $('.box').hide();
     $('h3').hide();
   }
