@@ -3,9 +3,11 @@
 
 
 ## Description:
-<br>Tic tac toe is a game played with two players, X and O. A game played on a 3x3 board in which the winner is determined by a player placing their mark in a row of 3 first. Rows can be made Horizontally, vertically or diagonally.<br>
 
-The main object of the project was designed to test our creativity and solve challenges real world developers encounter using multiple front end languages to create a simple tic tac toe game to get our feet wet in the Web Development World.
+The main objective of the project was designed to test our creativity and solve challenges  developers encounter using multiple front end languages to create a simple Tic-tac-toe game.
+
+Tic tac toe is a game played with two players, X and O. A game played on a 3x3 board in which the winner is determined by a player placing their mark in a row of 3 first. Rows can be made Horizontally, vertically or diagonally.
+
 
 
 ![Screenshot](/images/tictactoe.png)
@@ -34,5 +36,5 @@ The main object of the project was designed to test our creativity and solve cha
 ## V2 Release Notes:
 * Update bugs.
 * Create a theme picker.
-* Add customizable tokens.
+* Add customisable tokens.
 * Create AI.
