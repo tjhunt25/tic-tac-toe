@@ -130,7 +130,6 @@ $('.box').on("click",function(){
 
   }
   $('h3').text(`Players Turn :  ${currentPlayer}`);
-  // $('h3').css('background-color','red');
 
 
 });  // end of click handler

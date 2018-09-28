@@ -1,5 +1,5 @@
 # PROJECT ZERO - TIC TAC TOE:
-Follow my link to Tic-tac-toe V1: https://tjhunt03.github.io/tic-tac-toe/
+Follow my link to play Tic-tac-toe V1: https://tjhunt03.github.io/tic-tac-toe/
 
 
 ## Description:
