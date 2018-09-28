@@ -17,7 +17,7 @@ Tic tac toe is a game played with two players, X and O. A game played on a 3x3 b
  * Switches players between X and O.
  * Sound features activated when players make a move.
  * Win counter.
- * Hover effects were used for visual aesthetics.
+ * Hover effects on leaderboard were used for visual aesthetics.
  * Reset game button.
 
 ## TECH:
