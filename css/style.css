@@ -1,4 +1,3 @@
-
 /* Tic-tac-toe CSS */
 h1 {
   text-align: center;
@@ -6,7 +5,7 @@ h1 {
   color: white;
   font-family: 'Gloria Hallelujah', cursive;
   border: 10px solid white;
-  border-radius:10px;
+  border-radius: 10px;
 }
 
 h3 {
@@ -29,9 +28,9 @@ body {
   font-weight: bold;
   display: inline-block;
   font-weight: 200;
-  opacity: 20%;
+  opacity: 100%;
   background: linear-gradient(to bottom, #ffff66 0%, #99ff66 100%);
-  text-align:center;
+  text-align: center;
   border-radius: 20px;
   width: 70px;
   height: 70px;
@@ -42,8 +41,8 @@ body {
   line-height: 70px;
 }
 
-.box:hover{
-  background:linear-gradient(to bottom, #cc2b5e 0%, #753a88 100%);
+.box:hover {
+  background: linear-gradient(to bottom, #cc2b5e 0%, #753a88 100%);
 }
 
 
@@ -54,26 +53,26 @@ body {
   margin-left: 33%;
 }
 
-.reset{
+.reset {
   border-radius: 20px;
   background: linear-gradient(to bottom, #ffff66 0%, #99ff66 100%);
   padding: 10px;
   float: right;
   font-size: 30px;
   border: 10px solid white;
-  display:inline;
+  display: inline;
   margin-right: 20px;
   font-family: 'Gloria Hallelujah', cursive;
   bottom: 20%;
 }
 
-.reset:hover{
-  background:linear-gradient(to bottom, #cc2b5e 0%, #753a88 100%);
+.reset:hover {
+  background: linear-gradient(to bottom, #cc2b5e 0%, #753a88 100%);
 }
 
 
-.gameEndGif{
-  display:none;
+.gameEndGif {
+  display: none;
   margin-left: 30%;
   top: 300px;
 }
@@ -108,6 +107,6 @@ body {
   text-transform: uppercase;
 }
 
-.leaderboard:hover{
-  background:linear-gradient(to bottom, #cc2b5e 0%, #753a88 100%);
+.leaderboard:hover {
+  background: linear-gradient(to bottom, #cc2b5e 0%, #753a88 100%);
 }
